@@ -16,6 +16,6 @@ touch file20
 
 cd ../
 
-ln -s dir2/file20 link2
-
 touch file1
+
+ln -s dir2/file20 link2

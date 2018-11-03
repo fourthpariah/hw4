@@ -11,3 +11,5 @@ ls
 cd ../
 
 echo "$(<script3.sh )"
+
+../script3.sh
